@@ -5,7 +5,7 @@ description = "A port of the Universal theme"
 homepage = "https://github.com/devcows/hugo-universal-theme"
 tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive"]
 features = ["blog", "themes", "disqus", "minimal", "responsive"]
-min_version = 0.15
+min_version = 0.16
 
 [author]
     name = "devcows"
